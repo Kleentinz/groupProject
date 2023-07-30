@@ -4,7 +4,25 @@
     margin: 0;
     font-family: "DMsans";
    }
-
+/* index */
+.indexColor{
+    background-color: #E93A7D;
+}
+.indexpage h3 a{
+color: var(--colors-heading, #1E0E62);
+font-family: DM Sans;
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px; 
+letter-spacing: -1px;
+text-decoration: dotted;
+}
+.indexpage h1{
+    color: gold;
+    text-align: center;
+}
+/* index */
    .spectar {
     margin: auto, 20%;
 }
