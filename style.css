@@ -1,0 +1,420 @@
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,100;0,200;0,300;0,500;0,700;1,400&display=swap');
+/* Header11 Styling Start */
+  body {
+    margin: 0;
+    font-family: "DMsans";
+   }
+
+   .spectar {
+    margin: auto, 20%;
+}
+
+/* Nav Start */
+.startup3H11{
+    font-family: DM Sans !important;
+    color:#1E0E62 !important;
+    font-size: 28px  !important;
+    font-style: normal !important;
+    font-weight: 500;
+}
+
+.buy-button{
+    border-radius: 30px;
+    background:#1E0E62;
+    color: #fff;
+    padding: 8px 22px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.aboutstyle{
+    color: gray !important;
+}
+
+.header11-Ul li a, .lMore{
+    text-decoration: none;
+    color: #1E0E62;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.header11-Ul{
+    justify-content: center !important;
+}
+/* Nav End */
+   
+/* Container Style Start */
+
+.section-Margin{
+    margin-top: 50px;
+}
+
+.leftcontainer h2{
+    color: var(--colors-heading, #1E0E62);   
+    font-family: DM Sans;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; 
+    letter-spacing: -1px;
+}
+
+.leftcontainer h5{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.leftcontainer p{
+    color: var(--colors-text, rgba(21, 20, 57, 0.40));
+    font-family: DM Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.Gstarted-botton{
+    border-radius: 30px;
+    background: var(--action-primary, #25DAC5);
+    color: #fff;
+    padding: 8px 22px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+/* Header11 Stylng end */
+
+
+
+/* Header12 Styling start */
+.blueBackground{
+    background: var(--background-dark, #2F1893);
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+   }
+
+   .h12imgDiv{
+    width: 379.91px !important;
+    height: 756.861px !important;
+    flex-shrink: 0 !important;
+   }
+   .downloadBtn{
+    background-color: #25DAC5 !important;
+   }
+/* Header12 Styling stop */
+
+/* header13 styling start */
+.imgbackground{
+    background: #1E0E62 url(image/header-13.png) no-repeat;
+    background-size: cover;
+    height: 100vh
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+   }
+
+.startup3H13, .startup3H12{
+    font-family: DM Sans !important;
+    color: #FFF !important;
+    font-size: 28px  !important;
+    font-style: normal !important;
+    font-weight: 500;
+}
+
+.header13-Ul li a{
+    color: #FFF !important;
+    
+
+}
+
+.gStarted-button{
+    background-color: #1E0E62;
+    color: #FFF;
+    border-radius: 30px;
+    color: #fff;
+    padding: 8px 22px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.navMargin{
+    margin-top: 5px !important;
+}
+
+   .maintext{
+    margin-top: 30px;
+   }
+
+ 
+   .maintext h2{
+    color: var(--colors-white, #FFF);
+    text-align: center; 
+    font-family: DM Sans;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 86px; 
+    letter-spacing: -1px;
+   }
+
+   .maintext h5{
+    color: var(--colors-white, #FFF);
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+   }
+/* H13Nav Ends */
+
+/* header13 styling end */
+
+/* header14 styling start */
+/* H14Nav Start */
+.startup3H14{
+    font-family: DM Sans !important;
+    color:#FFF !important;
+    font-size: 28px  !important;
+    font-style: normal !important;
+    font-weight: 500;
+}
+
+.ChangeColor, .purchase-button{
+    text-decoration: none;
+    color:#FFF !important;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.overViewstyle{
+    color: gray !important;
+}
+
+.purchase-button{
+    border-radius: 30px;
+    background:#E93A7D;
+    padding: 8px 22px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+}
+/* H14Nav Ends */
+
+/* H14 Leftcontainer start */
+.leftcontainerH14 h2{
+    color:#FFF;   
+    font-family: DM Sans;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; 
+    letter-spacing: -1px;
+}
+
+.leftcontainerH14 h5{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.leftcontainerH14 p{
+    color:#FFF;
+    font-family: DM Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.h14Lmore, .downloadBtn{
+    border-radius: 30px;
+    background:#E93A7D;
+    color: #fff;
+    padding: 8px 30px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+/* H14 Leftcontainer END */
+
+/* H14 forms start */
+.signupForm{
+    width: 450px;
+    height: 500px;
+    background: #FFFFFF;
+    float:right;
+    border-radius: 10px;
+    padding: 20px 0;
+    }
+    .formclass h3{
+        padding: 12px 0;
+        color:#1E0E62;
+        font-size: 42px;
+    }
+    .E-mail, .passwordStyle{
+        width: 306px;
+        padding: 12px 0 12px 24px;
+        color:#151439;
+        border-radius: 20px;
+        border:2px solid #EBEAED;
+        outline: none;
+        margin-bottom: 25px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .label{
+        font-size: 14px;
+        color:#151439;
+        opacity: 0.8;
+        line-height: 26px;
+    }
+    .checkboxStyle{
+        height: 14px;
+        width: 14px;
+        cursor: pointer;
+        accent-color: green;
+    }
+    .signUp, .loginIn{
+        width: 306px;
+        border-radius: 100px;
+        padding: 12px 0;
+        border: none;
+        color: #FFFFFF;
+    }
+    .signUp{
+        background: #482BE7;
+    }
+    .loginIn{
+        background:  #1DA1F2;
+    }
+    .lastPara{
+      text-align: center;
+      font-weight: 500;
+    }
+    .formclass p{
+    color: rgba(21, 20, 57, 0.40);
+    }
+    .signinlink{
+        color: #25DAC5;
+    }
+/* H14 forms End */
+
+/* header14 ends */
+
+/* header15 styling start */
+.startup3H15{
+    font-family: DM Sans !important;
+    color:#1E0E62 !important;
+    font-size: 28px  !important;
+    font-style: normal !important;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.header15-Ul li a{
+    color: var(--colors-text, rgba(21, 20, 57, 0.40)) !important;
+}
+
+.Login-button{
+    background: none;
+    color: #25DAC5 !important;
+    color: #fff;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.Signup-button{
+    background-color: #25DAC5;
+    color: #FFF;
+    border-radius: 30px;
+    color: #fff;
+    padding: 8px 22px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.navMargin{
+    margin-top: 5px !important;
+}
+
+   .maintext{
+    margin-top: 30px;
+   }
+
+
+.h15-maintext h2{
+    color:#1E0E62;
+    font-family: DM Sans;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 86px; 
+    letter-spacing: -1px;
+    text-align: center;
+   }
+
+   .h15-maintext h5{
+    color: var(--colors-text, rgba(21, 20, 57, 0.40));;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+   }
+
+  .createAct-button{
+    background-color: #E93A7D;
+    color: #FFF;
+    border-radius: 30px;
+    color: #fff;
+    padding: 8px 22px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 15px;
+    
+}
+.h15-maintext button{
+    text-align: center
+}
+
+.footer-img{
+    margin-top: 70px;
+   text-align: center;
+}
+.img15a p, .img15b p, .img15c p{
+    margin-top: 20px;
+    color: var(--colors-text, rgba(21, 20, 57, 0.40));
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+}
+
+/* header15 styling end  */
