@@ -131,8 +131,9 @@ text-decoration: dotted;
 .imgbackground{
     background: #1E0E62 url(image/header-13.png) no-repeat;
     background-size: cover;
-    height: 100vh
+    height: 100vh;
     
+
 }
 
 *{
@@ -414,6 +415,7 @@ text-decoration: dotted;
     box-shadow: none;
     cursor: pointer;
     font-size: 15px;
+    margin: 10px auto;
     
 }
 .h15-maintext button{
@@ -434,5 +436,96 @@ text-decoration: dotted;
     font-weight: 500;
     line-height: 28px; 
 }
+
+.img15c-border{
+    border-left: 2px gray solid;
+    border-right: 2px gray solid;
+    padding: 0px 90px;
+}
+
+.content{
+    background: url(image/content_14.png) no-repeat;
+    padding: 50px;
+    background-size: cover;
+    
+
+}
+
+.contentText{
+    background: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 700px;
+    margin: 0 auto;
+    font-family: DM Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px; 
+    color: var(--colors-text, rgba(21, 20, 57, 0.40));
+}
+
+.contentText h3{
+    font: DM Sans;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    color: var(--colors-heading, #1E0E62);
+}
+
+.imgArticle{
+    margin-top: 35px;
+    color: var(--colors-text, rgba(21, 20, 57, 0.40));
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+}
+
+.imgArticle h3{
+    color: var(--colors-heading, #1E0E62);
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px; 
+    letter-spacing: -0.4px;
+}
+
+.imgSet2{
+    margin-top: 20px;
+}
+
+/* @media (max-width: 767px) {
+    .img15c-border{
+        border-top: 2px gray solid;
+        border-bottom: 2px gray solid;
+        padding-top: 35px;
+        padding-bottom: 35px;
+        
+    }
+}
+
+
+
+@media (max-width: 767px) {
+    .col-md-12 h2{
+        font-size:50px !important;
+      
+    }
+}
+
+
+@media (max-width: 767px) {
+    .content, .contentText{
+        background-size: contain;
+      
+    }
+} */
 
 /* header15 styling end  */
