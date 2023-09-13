@@ -4,11 +4,15 @@
     margin: 0;
     font-family: "DMsans";
    }
+
+.row{
+    margin: 0 !important;
+}
 /* index */
 .indexColor{
     background-color: #E93A7D;
 }
-.indexpage h3 a{
+.indexPage h3 a{
 color: var(--colors-heading, #1E0E62);
 font-family: DM Sans;
 font-size: 38px;
@@ -338,6 +342,7 @@ text-decoration: dotted;
 /* header14 ends */
 
 /* header15 styling start */
+
 .startup3H15{
     font-family: DM Sans !important;
     color:#1E0E62 !important;
@@ -500,32 +505,41 @@ text-decoration: dotted;
 .imgSet2{
     margin-top: 20px;
 }
+/* Responsivness */
 
-/* @media (max-width: 767px) {
-    .img15c-border{
-        border-top: 2px gray solid;
-        border-bottom: 2px gray solid;
-        padding-top: 35px;
-        padding-bottom: 35px;
+@media screen and (max-width: 767px) {
+
+    * {
+        box-sizing: border-box;
         
+      }
+
+      br{
+        display: none;
+      }
+
+      img{
+        width: 100%;
+      }
+
+
+
     }
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+
+    * {
+        box-sizing: border-box;
+        
+      }
+
+      br{
+        display: none;
+      }
+
+      img{
+        width: 100%;
+      }
 }
-
-
-
-@media (max-width: 767px) {
-    .col-md-12 h2{
-        font-size:50px !important;
-      
-    }
-}
-
-
-@media (max-width: 767px) {
-    .content, .contentText{
-        background-size: contain;
-      
-    }
-} */
-
 /* header15 styling end  */
